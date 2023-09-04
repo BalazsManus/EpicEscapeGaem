@@ -7,6 +7,8 @@ In memory of Darki Doxx 2023
 > [!IMPORTANT]
 > Don't play with anger issues!
 
+**[DOWNLOAD NOW!!1!](https://github.com/BalazsManus/EpicEscapeGaem/releases/latest/launcher.exe)**
+
 Really hard game with challenges and other crappy things!
 
 ### Last Updated: 2023Y 09M 03D
