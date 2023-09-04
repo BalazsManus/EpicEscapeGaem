@@ -7,7 +7,9 @@ In memory of Darki Doxx 2023
 > [!IMPORTANT]
 > Don't play with anger issues!
 
-**[DOWNLOAD NOW!!1!](https://github.com/BalazsManus/EpicEscapeGaem/releases/latest/launcher.exe)**
+**[DOWNLOAD NOW!!1!](https://github.com/BalazsManus/EpicEscapeGaem/releases/latest/launcher.exe/download)**
+
+Protip: No install required for the launcher and the game is installed locally (appdata/roaming/EEG)
 
 Really hard game with challenges and other crappy things!
 
