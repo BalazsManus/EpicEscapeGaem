@@ -15,3 +15,5 @@ Really hard game with challenges and other crappy things!
 
 - [ ] Improve loading times
 - [ ] Improve the performace on potatoes
+- [ ] Remove "Debug commands"
+- [ ] Remove unnecesary logic from code
