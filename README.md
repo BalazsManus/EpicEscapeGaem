@@ -13,6 +13,8 @@ In memory of Darki Doxx 2023
 
 Really hard game with challenges and unusual crap and dad jokes, with a little sprinkle of memes.
 
+**[Have an idea? Click here!](https://github.com/BalazsManus/EpicEscapeGaem/issues/new/choose)**
+
 ### Last Updated: 2023Y 09M 03D
 
 ## Crap to do:
