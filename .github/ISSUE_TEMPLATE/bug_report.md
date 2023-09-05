@@ -31,7 +31,7 @@ Ah yes screenphotography. plz send pic of the bugs
 
 **Standalone (aka. game.7z):**
  - OS: [still windows]
- - GaME Version: [still, no wy!]
+ - Game Version: [still, no wy!]
 
 **Optional messages**
 Plz don't send love messages
