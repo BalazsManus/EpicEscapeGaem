@@ -17,6 +17,12 @@ Really hard game with challenges and unusual crap and dad jokes, with a little s
 
 ### Last Updated: 2023Y 09M 03D
 
+## Compatibility:
+- Windows 7 (Fully updated) or newer
+- [.NET Desktop Runtime 6](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
+- [.NET Runtime 6](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
+- 32Bit or 64Bit Processor
+
 ## Crap to do:
 
 - [ ] Improve loading times
